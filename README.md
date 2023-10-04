@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HypeWaleedh
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning React And Node JS
+- 💞️ I’m looking to collaborate on Webs Apps
+- 📫 How to reach me orixsolutions9@gmail.com
